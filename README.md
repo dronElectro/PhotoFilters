@@ -1,1 +1,2 @@
 # PhotoFilters
+Работа с Bitmap.
