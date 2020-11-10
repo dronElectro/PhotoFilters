@@ -1,0 +1,10 @@
+C:\Users\Andrey\source\repos\BitMapFilters\BitMapFilters\bin\Debug\BitMapFilters.exe.config
+C:\Users\Andrey\source\repos\BitMapFilters\BitMapFilters\bin\Debug\BitMapFilters.exe
+C:\Users\Andrey\source\repos\BitMapFilters\BitMapFilters\bin\Debug\BitMapFilters.pdb
+C:\Users\Andrey\source\repos\BitMapFilters\BitMapFilters\obj\Debug\BitMapFilters.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\BitMapFilters\BitMapFilters\obj\Debug\BitMapFilters.Properties.Resources.resources
+C:\Users\Andrey\source\repos\BitMapFilters\BitMapFilters\obj\Debug\BitMapFilters.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\BitMapFilters\BitMapFilters\obj\Debug\BitMapFilters.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\BitMapFilters\BitMapFilters\obj\Debug\BitMapFilters.exe
+C:\Users\Andrey\source\repos\BitMapFilters\BitMapFilters\obj\Debug\BitMapFilters.pdb
+C:\Users\Andrey\source\repos\BitMapFilters\BitMapFilters\obj\Debug\BitMapFilters.BitMapFilersForm.resources
